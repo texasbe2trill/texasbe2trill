@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Chris%20Campbell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-campbell2/)](https://www.linkedin.com/in/chris-campbell2/) 
 
 
-## ⚡ Technologies
+## ⚡👨🏾‍💻 Technologies
 
 <!-- Check out the Badges folder for more badges -->
 
@@ -19,7 +19,7 @@ Find out more about me & feel free to connect with me here:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-
+## GitHub Stats 📈
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=texasbe2trill&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
