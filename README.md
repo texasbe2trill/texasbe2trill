@@ -23,7 +23,7 @@ Find out more about me & feel free to connect with me here:
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=texasbe2trill&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=texasbe2trill&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/texasbe2trill/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=texasbe2trill&layout=compact&langs_count=5&theme=tokyonight)](https://github.com/texasbe2trill/github-readme-stats)-->
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=texasbe2trill%2Ftexasbe2trill&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=texasbe2trill%2Ftexasbe2trill)
