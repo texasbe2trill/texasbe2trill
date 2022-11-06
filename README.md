@@ -2,7 +2,9 @@
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
 
-I am a Security Engineer, USMC Veteran, CompSci student at Oregon State University, & NBA Connoisseur 🏀. I'm interested in contributing to open source security projects and I'm currently learning Python.
+I am a Security Engineer, USMC Veteran, & CompSci student at Oregon State University. 
+
+I'm interested in contributing to open source security projects and I'm currently learning Python.
 
 Find out more about me & feel free to connect with me here:
 
