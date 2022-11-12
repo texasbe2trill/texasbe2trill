@@ -11,7 +11,7 @@ Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Chris%20Campbell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chris-campbell2/)](https://www.linkedin.com/in/chris-campbell2/) 
 
 
-## ⚡👨🏾‍💻 Technologies
+## 👨🏾‍💻⚡ Technologies
 
 <!-- Check out the Badges folder for more badges -->
 
