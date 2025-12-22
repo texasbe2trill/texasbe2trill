@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%7C%20Incident%20Response%20%7C%20Applied%20AI&descAlignY=60" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%26+Incident+Response;Applied+Machine+Learning+%7C+NLP+for+Security;Threat+Modeling+%7C+Adversary+Analysis;Python+%7C+R+%7C+Linux+%7C+Cloud+APIs" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%26+Incident+Response;Applied+Machine+Learning+%7C+NLP+for+Security;Threat+Modeling+%7C+Adversary+Analysis;Python+%7C+R+%7C+Linux+%7C+APIs+%26+Distributed+Systems" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=for-the-badge" />
