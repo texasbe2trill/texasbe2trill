@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%7C%20Incident%20Response%20%7C%20Applied%20AI/ML&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Chris%20Campbell&amp;fontAlignY=40&amp;desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Applied%20AI%20%20and%20%20Machine%20Learning&amp;descAlignY=60" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%26+Incident+Response;Applied+Machine+Learning+%7C+NLP+for+Security;Threat+Modeling+%7C+Adversary+Analysis;Python+%7C+R+%7C+Linux+%7C+APIs+%26+Distributed+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&amp;duration=3000&amp;pause=700&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Security+Engineering+%26+Incident+Response;Applied+Machine+Learning+%7C+NLP+for+Security;Threat+Modeling+%7C+Adversary+Analysis;Python+%7C+R+%7C+Linux+%7C+APIs+%26+Distributed+Systems" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=for-the-badge" />
@@ -13,12 +13,12 @@
 ---
 
 ## <img src="https://img.shields.io/badge/Profile-About-000000?style=flat-square&logo=github" />
-I’m a security engineer focused on **incident response**, **adversary-driven analysis**, and **applied machine learning for security problems**.
+I work in security incident response, with experience in adversary-driven investigations and a growing focus on applying machine learning to security problems.
 
-My work centers on partnering with engineers to **understand real threats**, **identify missing or fragile controls**, and **build practical, evidence-based tooling** that improves security outcomes without adding unnecessary friction.
+My day-to-day work is about understanding incidents in context — how systems failed, how attackers operated, and which signals actually mattered under real operational constraints.
 
-Areas of focus include:
-- Security architecture and threat modeling
+Things I currently focus on:
+- Security architecture, threat modeling, and risk analysis
 - Incident response and adversary simulation
 - Applied ML and NLP for security analysis and triage
 - Reliability, observability, and operational visibility in production systems
@@ -31,8 +31,8 @@ Areas of focus include:
 **Python / Jupyter-based NLP project for security alert triage**
 
 - Exploratory and applied NLP using Python and Jupyter notebooks
-- Focused on text classification, feature extraction, and model evaluation
-- Designed to support analyst judgment rather than automate decisions
+- Focused on text classification, feature extraction, and **systematic model evaluation**
+- Designed to support analyst judgment rather than automate conclusions
 - Emphasizes transparency, reproducibility, and measurable signal quality
 
 ➡️ https://github.com/texasbe2trill/AlertSage
@@ -44,7 +44,7 @@ Areas of focus include:
 
 - Programmatic access to Shodan data for exposure analysis and research
 - Supports enrichment, aggregation, and reproducible reporting
-- Useful for threat research, attack surface analysis, and analytics workflows
+- Useful for threat research, attack-surface analysis, and analytics workflows
 
 ➡️ https://github.com/texasbe2trill/ShodanR
 
@@ -67,13 +67,13 @@ Areas of focus include:
 </div>
 
 - **Languages:** Python, R, Bash  
-- **Security:** Incident response, threat modeling, adversary simulation, security architecture  
-- **Data & AI:** NLP, embeddings, model evaluation, applied statistical analysis
-- **Systems:** Linux, service & application APIs, distributed systems, logging & telemetry, automation
+- **Security:** Incident response, threat modeling, adversary simulation, security architecture &amp; assurance  
+- **Data & AI:** NLP, embeddings, model evaluation, applied statistical analysis  
+- **Systems:** Linux, service &amp; application APIs, distributed systems, logging &amp; telemetry, automation
 
 ---
 
-## <img src="https://img.shields.io/badge/Philosophy-How%20I%20Build-444444?style=flat-square&logo=openaigym" />
+## <img src="https://img.shields.io/badge/Philosophy-How%20I%20Build-444444?style=flat-square" />
 I approach security and AI work with a focus on:
 - **Evidence over assumptions** — models and controls should be testable and measurable
 - **Engineer partnership** — security should enable delivery, not obstruct it
@@ -112,5 +112,5 @@ I’m currently focused on:
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer" />
 </div>
