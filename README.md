@@ -30,21 +30,36 @@ Things I currently focus on:
 ### <img src="https://img.shields.io/badge/Project-AlertSage-3776AB?style=flat-square&logo=python&logoColor=white" />
 **Python / Jupyter-based NLP project for security alert triage**
 
-- Exploratory and applied NLP using Python and Jupyter notebooks
-- Focused on text classification, feature extraction, and **systematic model evaluation**
-- Designed to support analyst judgment rather than automate conclusions
-- Emphasizes transparency, reproducibility, and measurable signal quality
+- Exploratory and applied NLP using Python and Jupyter notebooks  
+- Focused on text classification, feature extraction, and **systematic model evaluation**  
+- Designed to support analyst judgment rather than automate conclusions  
+- Emphasizes transparency, reproducibility, and measurable signal quality  
 
 ➡️ https://github.com/texasbe2trill/AlertSage
+
+---
+
+### <img src="https://img.shields.io/badge/Project-Constellation%20Engine-3776AB?style=flat-square&logo=python&logoColor=white" />
+**Deterministic dependency reasoning engine for distributed systems**
+
+- Models service architectures as explicit dependency graphs  
+- Identifies failure blast radius and critical services before incidents occur  
+- Makes hidden coupling and cascading failure paths explicit  
+- Focuses on deterministic, reproducible reasoning over probabilistic scoring  
+
+This project reflects how I approach incident response at the system level:  
+understanding **structure**, **dependencies**, and **what actually breaks when something fails**.
+
+➡️ https://github.com/texasbe2trill/constellation-engine
 
 ---
 
 ### <img src="https://img.shields.io/badge/Project-ShodanR-276DC3?style=flat-square&logo=r&logoColor=white" />
 **R package for analyzing internet-exposed services using Shodan**
 
-- Programmatic access to Shodan data for exposure analysis and research
-- Supports enrichment, aggregation, and reproducible reporting
-- Useful for threat research, attack-surface analysis, and analytics workflows
+- Programmatic access to Shodan data for exposure analysis and research  
+- Supports enrichment, aggregation, and reproducible reporting  
+- Useful for threat research, attack-surface analysis, and analytics workflows  
 
 ➡️ https://github.com/texasbe2trill/ShodanR
 
@@ -53,9 +68,9 @@ Things I currently focus on:
 ### <img src="https://img.shields.io/badge/Project-hooplyticsR-6f42c1?style=flat-square&logo=r&logoColor=white" />
 **Data analysis and modeling project using R**
 
-- Data ingestion, feature engineering, and exploratory analysis
-- Demonstrates statistical reasoning and reproducible research practices
-- Separate from security work, but representative of analytical rigor
+- Data ingestion, feature engineering, and exploratory analysis  
+- Demonstrates statistical reasoning and reproducible research practices  
+- Separate from security work, but representative of analytical rigor  
 
 ➡️ https://github.com/texasbe2trill/hooplyticsR
 
@@ -75,10 +90,10 @@ Things I currently focus on:
 
 ## <img src="https://img.shields.io/badge/Philosophy-How%20I%20Build-444444?style=flat-square" />
 I approach security and AI work with a focus on:
-- **Evidence over assumptions** — models and controls should be testable and measurable
-- **Engineer partnership** — security should enable delivery, not obstruct it
-- **Operational realism** — designs must hold up under incident conditions
-- **Simplicity at scale** — the best solutions are understandable and maintainable
+- **Evidence over assumptions** — models and controls should be testable and measurable  
+- **Engineer partnership** — security should enable delivery, not obstruct it  
+- **Operational realism** — designs must hold up under incident conditions  
+- **Simplicity at scale** — the best solutions are understandable and maintainable  
 
 ---
 
@@ -94,9 +109,9 @@ I approach security and AI work with a focus on:
 
 ## <img src="https://img.shields.io/badge/Direction-Current-444444?style=flat-square&logo=probot" />
 I’m currently focused on:
-- Applying ML and NLP to real security workflows
-- Improving incident response through better analysis and tooling
-- Building systems that balance **security, reliability, and developer experience**
+- Applying ML and NLP to real security workflows  
+- Improving incident response through better analysis and tooling  
+- Building systems that balance **security, reliability, and developer experience**  
 
 ---
 
