@@ -68,8 +68,8 @@ Areas of focus include:
 
 - **Languages:** Python, R, Bash  
 - **Security:** Incident response, threat modeling, adversary simulation, security architecture  
-- **Data & AI:** NLP, embeddings, evaluation, statistical analysis  
-- **Systems:** Linux, APIs, logging & telemetry, automation
+- **Data & AI:** NLP, embeddings, model evaluation, applied statistical analysis
+- **Systems:** Linux, service & application APIs, distributed systems, logging & telemetry, automation
 
 ---
 
