@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Chris%20Campbell&amp;fontAlignY=40&amp;desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Applied%20AI%20%20and%20%20Machine%20Learning&amp;descAlignY=60" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&amp;duration=3000&amp;pause=700&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Security+Engineering+%26+Incident+Response;Applied+Machine+Learning+%7C+NLP+for+Security;Threat+Modeling+%7C+Adversary+Analysis;Python+%7C+R+%7C+Linux+%7C+APIs+%26+Distributed+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%26+Incident+Response;Applied+Machine+Learning+for+Security+%7C+NLP;Threat+Modeling+%7C+Adversary-Driven+Analysis;Python+%7C+R+%7C+Linux+%7C+Distributed+Systems" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=for-the-badge" />
@@ -100,7 +100,7 @@ I approach security and AI work with a focus on:
 ## <img src="https://img.shields.io/badge/Activity-GitHub-24292e?style=flat-square&logo=github" />
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github&v=1" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texasbe2trill&layout=compact" />
 
 </div>
