@@ -13,7 +13,7 @@
 ---
 
 ## <img src="https://img.shields.io/badge/Profile-About-000000?style=flat-square&logo=github" />
-I work in security incident response, with experience in adversary-driven investigations and a growing focus on applying machine learning to security problems.
+I work in security incident response, analyzing how attackers interact with real systems and applying machine learning techniques to help surface meaningful signals during investigations.
 
 My day-to-day work is about understanding incidents in context — how systems failed, how attackers operated, and which signals actually mattered under real operational constraints.
 
