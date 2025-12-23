@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Chris%20Campbell&amp;fontAlignY=40&amp;desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Applied%20AI%20%20and%20%20Machine%20Learning&amp;descAlignY=60" />
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Applied%20AI%20%2B%20Machine%20Learning&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
 
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%26+Incident+Response;Applied+Machine+Learning+for+Security+%7C+NLP;Threat+Modeling+%7C+Adversary-Driven+Analysis;Python+%7C+R+%7C+Linux+%7C+Distributed+Systems" />
 
@@ -127,5 +127,5 @@ I’m currently focused on:
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=120&amp;section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=30,23,6,2" />
 </div>
