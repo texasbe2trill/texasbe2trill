@@ -97,15 +97,6 @@ I approach security and AI work with a focus on:
 
 ---
 
-## <img src="https://img.shields.io/badge/Activity-GitHub-24292e?style=flat-square&logo=github" />
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github&v=1" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texasbe2trill&layout=compact" />
-
-</div>
-
----
 
 ## <img src="https://img.shields.io/badge/Direction-Current-444444?style=flat-square&logo=probot" />
 I’m currently focused on:
