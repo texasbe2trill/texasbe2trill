@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Detection%20Engineering%20%2B%20Automation&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%7C+Incident+Response;Detection+Engineering+%7C+Adversary-Driven+Analysis;Reliability+%7C+Automation+%7C+Distributed+Systems;Applied+ML+for+Security+%7C+NLP;Python+%7C+Linux" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%7C+Incident+Response;Detection+Engineering+%7C+Adversary+Analysis;Reliability+%7C+Automation+%7C+Distributed+Systems;Applied+ML+for+Security+%7C+NLP;Python+%7C+Linux+%7C+R+%7C+Swift" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=for-the-badge" />
@@ -80,7 +80,7 @@ understanding **structure**, **dependencies**, and **what actually breaks when s
 <div align="center">
 
 <img height="170" src="https://texasbe2trill.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true&cache_seconds=21600" />
-<img height="170" src="https://texasbe2trill.vercel.app/api/top-langs/?username=texasbe2trill&hide_border=true&theme=github_dark&count_private=true&layout=compact&cache_seconds=21600" />
+<img height="170" src="https://texasbe2trill.vercel.app/api/top-langs/?username=texasbe2trill&hide_border=true&theme=github_dark&hide=Jupyter%20Notebook&layout=compact&cache_seconds=21600" />
 
 </div>
 
@@ -91,10 +91,10 @@ understanding **structure**, **dependencies**, and **what actually breaks when s
 <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,vscode,docker,postgres,sqlite" />
 </div>
 
-- **Languages:** Python, R, Bash  
-- **Security:** Incident response, threat modeling, adversary simulation, security architecture &amp; assurance  
-- **Data & AI:** NLP, embeddings, model evaluation, applied statistical analysis  
-- **Systems:** Linux, service &amp; application APIs, distributed systems, logging &amp; telemetry, automation
+- **Languages:** Python, R, Bash, Swift
+- **Applied ML & Research:** Python (Jupyter), PyTorch, R; NLP, embeddings, model evaluation, applied statistics  
+- **Security:** Incident response, threat modeling, adversary simulation, security architecture & assurance  
+- **Systems:** Linux, service & application APIs, distributed systems, logging & telemetry, automation
 
 ---
 
