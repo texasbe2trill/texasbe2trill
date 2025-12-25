@@ -79,8 +79,9 @@ understanding **structure**, **dependencies**, and **what actually breaks when s
 ## <img src="https://img.shields.io/badge/Activity-GitHub-24292e?style=flat-square&logo=github" />
 <div align="center">
 
-<img height="170" src="https://texasbe2trill.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&cache_seconds=21600" />
-<img height="170" src="https://texasbe2trill.vercel.app/api/top-langs/?username=texasbe2trill&hide_border=true&theme=github_dark&cache_seconds=21600" />
+<img height="170" src="https://texasbe2trill.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&count_private=true
+&include_all_commits=true&cache_seconds=21600" />
+<img height="170" src="https://texasbe2trill.vercel.app/api/top-langs/?username=texasbe2trill&hide_border=true&theme=github_dark&layout=compact&cache_seconds=21600" />
 
 </div>
 
