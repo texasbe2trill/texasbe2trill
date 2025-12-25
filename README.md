@@ -76,6 +76,16 @@ understanding **structure**, **dependencies**, and **what actually breaks when s
 
 ---
 
+## <img src="https://img.shields.io/badge/Activity-GitHub-24292e?style=flat-square&logo=github" />
+<div align="center">
+
+<img height="170" src="https://texasbe2trill.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=21600" />
+<img height="170" src="https://texasbe2trill.vercel.app/api/top-langs/?username=texasbe2trill&layout=compact&hide_border=true&cache_seconds=21600" />
+
+</div>
+
+---
+
 ## <img src="https://img.shields.io/badge/Focus-Technical-333333?style=flat-square&logo=linux" />
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,vscode,docker,postgres,sqlite" />
