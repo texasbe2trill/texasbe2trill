@@ -1,8 +1,8 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Applied%20AI%20%2B%20Machine%20Learning&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%26+Incident+Response;Applied+Machine+Learning+for+Security+%7C+NLP;Threat+Modeling+%7C+Adversary-Driven+Analysis;Python+%7C+R+%7C+Linux+%7C+Distributed+Systems" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Detection%20%E2%80%A2%20Automation%20%2B%20Systems&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%7C+Incident+Response;Detection+Engineering+%7C+Adversary-Driven+Analysis;Reliability+%7C+Automation+%7C+Distributed+Systems;Applied+ML+for+Security+%7C+NLP;Python+%7C+Linux" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=for-the-badge" />
@@ -20,8 +20,8 @@ My day-to-day work is about understanding incidents in context — how systems f
 Things I currently focus on:
 - Security architecture, threat modeling, and risk analysis
 - Incident response and adversary simulation
-- Applied ML and NLP for security analysis and triage
 - Reliability, observability, and operational visibility in production systems
+- Applied ML and NLP for security analysis and triage
 
 ---
 
