@@ -84,7 +84,7 @@ understanding **structure**, **dependencies**, and **what actually breaks when s
 
 ## <img src="https://img.shields.io/badge/Focus-Technical-333333?style=flat-square&logo=linux" />
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,github,vscode,docker,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,r,swift,linux,bash,git,github,vscode,docker,postgres,sqlite" />
 </div>
 
 - **Languages:** Python, R, Bash, Swift
