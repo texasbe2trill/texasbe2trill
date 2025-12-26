@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%7C+Incident+Response;Detection+Engineering+%7C+Adversary+Analysis;Reliability+%7C+Automation+%7C+Distributed+Systems;Applied+ML+for+Security+%7C+NLP;Python+%7C+Linux+%7C+R+%7C+Swift" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=for-the-badge" />
-</p>
-
 </div>
 
 ---
@@ -128,5 +124,12 @@ I’m currently focused on:
 ---
 
 <div align="center">
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=for-the-badge" />
+</p>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=30,23,6,2" />
+
+  
 </div>
