@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Detection%20Engineering%20%2B%20Automation&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%7C+Incident+Response;Detection+Engineering+%7C+Adversary+Analysis;Reliability+%7C+Automation+%7C+Distributed+Systems;Applied+ML+for+Security+%7C+NLP;Python+%7C+Linux+%7C+R+%7C+Swift" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%7C+Incident+Response;Detection+Engineering+%7C+Adversary+Analysis;Applied+ML+for+Security+%7C+NLP+%7C+Automation" />
 
 </div>
 
