@@ -35,6 +35,21 @@ Things I currently focus on:
 
 ---
 
+### <img src="https://img.shields.io/badge/Project-ScenarioKit-FA7343?style=flat-square&logo=swift&logoColor=white" />
+**Visual security storyboards from macOS unified logs for incident response**
+
+- Converts raw macOS system events into visual HTML timelines with threat context
+- Applies Sigma detection rules to identify suspicious activity and extract MITRE ATT&CK techniques
+- Validates security test scenarios with fixture-based rule matching
+- Creates single-file, offline storyboards that make incident patterns immediately visible
+
+This project reflects how I approach security analysis at the host level:
+transforming **raw telemetry** into **actionable narratives** that surface the **who, what, when, and why** of security events.
+
+➡️ https://github.com/texasbe2trill/ScenarioKit
+
+---
+
 ### <img src="https://img.shields.io/badge/Project-Constellation%20Engine-3776AB?style=flat-square&logo=python&logoColor=white" />
 **Deterministic dependency reasoning engine for distributed systems**
 
@@ -76,7 +91,7 @@ understanding **structure**, **dependencies**, and **what actually breaks when s
 <div align="center">
 
 <img height="170" src="https://texasbe2trill.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true&cache_seconds=21600" />
-<img height="170" src="https://texasbe2trill.vercel.app/api/top-langs/?username=texasbe2trill&hide_border=true&theme=github_dark&hide=Jupyter%20Notebook&layout=compact&cache_seconds=21600" />
+<img height="170" src="https://texasbe2trill.vercel.app/api/top-langs/?username=texasbe2trill&hide_border=true&theme=github_dark&hide=Jupyter%20Notebook&layout=compact&cache_seconds=21600&" />
 
 </div>
 
