@@ -23,6 +23,18 @@ Things I currently focus on:
 
 ## <img src="https://img.shields.io/badge/Work-Featured%20Projects-1f6feb?style=flat-square&logo=github" />
 
+### <img src="https://img.shields.io/badge/Project-macos--trust-3776AB?style=flat-square&logo=python&logoColor=white" />
+**Python-based context-aware macOS security scanner**
+
+- Command-line tool for intelligent macOS trust assessment and security scanning
+- Recognizes legitimate vendor tools to reduce false positives in security analysis
+- Analyzes applications, launch daemons, code signatures, and Gatekeeper status
+- Designed for security practitioners who need fast, accurate threat detection
+
+➡️ https://github.com/texasbe2trill/macos-trust
+
+---
+
 ### <img src="https://img.shields.io/badge/Project-AlertSage-3776AB?style=flat-square&logo=python&logoColor=white" />
 **Python / Jupyter-based NLP project for security alert triage**
 
