@@ -74,21 +74,6 @@ transforming **raw telemetry** into **actionable narratives** that surface the *
 
 ---
 
-### <img src="https://img.shields.io/badge/Project-Constellation%20Engine-3776AB?style=flat-square&logo=python&logoColor=white" />
-**Deterministic dependency reasoning engine for distributed systems**
-
-- Models service architectures as explicit dependency graphs  
-- Identifies failure blast radius and critical services before incidents occur  
-- Makes hidden coupling and cascading failure paths explicit  
-- Focuses on deterministic, reproducible reasoning over probabilistic scoring  
-
-This project reflects how I approach incident response at the system level:  
-understanding **structure**, **dependencies**, and **what actually breaks when something fails**.
-
-➡️ https://github.com/texasbe2trill/constellation-engine
-
----
-
 ### <img src="https://img.shields.io/badge/Project-ShodanR-276DC3?style=flat-square&logo=r&logoColor=white" />
 **R package for analyzing internet-exposed services using Shodan**
 
@@ -123,10 +108,10 @@ understanding **structure**, **dependencies**, and **what actually breaks when s
 
 ## <img src="https://img.shields.io/badge/Focus-Technical-333333?style=flat-square&logo=linux" />
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,r,swift,linux,bash,git,github,vscode,docker,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,r,swift,go,linux,bash,git,github,vscode" />
 </div>
 
-- **Languages:** Python, R, Bash, Swift
+- **Languages:** Python, R, Bash, Swift, Go
 - **Applied ML & Research:** Python (Jupyter), PyTorch, R; NLP, embeddings, model evaluation, applied statistics  
 - **Security:** Incident response, threat modeling, adversary simulation, security architecture & assurance  
 - **Systems:** Linux, service & application APIs, distributed systems, logging & telemetry, automation
