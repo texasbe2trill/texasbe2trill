@@ -23,6 +23,18 @@ Things I currently focus on:
 
 ## <img src="https://img.shields.io/badge/Work-Featured%20Projects-1f6feb?style=flat-square&logo=github" />
 
+### <img src="https://img.shields.io/badge/Project-policyforge-00ADD8?style=flat-square&logo=go&logoColor=white" />
+**Go-based policy enforcement and compliance evidence engine**
+
+- CLI and REST API for evaluating access requests against YAML-defined roles, resources, and safety tiers
+- Returns deterministic `allow` / `deny` / `require_approval` decisions with structured audit reasoning
+- Generates tamper-evident audit logs (SHA-256 hash chain) and per-decision compliance evidence bundles
+- Supports agent policy envelopes for constraining non-human identities (bots, CI pipelines, AI systems)
+
+➡️ https://github.com/texasbe2trill/policyforge
+
+---
+
 ### <img src="https://img.shields.io/badge/Project-macos--trust-3776AB?style=flat-square&logo=python&logoColor=white" />
 **Python-based context-aware macOS security scanner**
 
