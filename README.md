@@ -21,17 +21,17 @@ Things I currently focus on:
 
 ---
 
-## <img src="https://img.shields.io/badge/Work-Featured%20Projects-1f6feb?style=flat-square&logo=github" />
+### <img src="https://img.shields.io/badge/Project-KoNotes-3b82f6?style=flat-square" />
+**Kobo reading intelligence and insight engine (Python, Streamlit)**
 
-### <img src="https://img.shields.io/badge/Project-policyforge-00ADD8?style=flat-square&logo=go&logoColor=white" />
-**Go-based policy enforcement and compliance evidence engine**
+- Transforms KoboReader.sqlite data into structured insights across highlights, notes, vocabulary, and reading behavior
+- Local-first system that parses and normalizes reading telemetry without cloud dependencies or external APIs
+- Insight engine surfaces cross-book themes, reading patterns, and engagement signals using applied ML/NLP techniques
+- Streamlit UI + CLI workflows for exploring, filtering, and exporting reading intelligence in markdown, HTML, and text formats
+- Designed for explainability: all insights are backed by source data, timestamps, and traceable evidence
 
-- CLI and REST API for evaluating access requests against YAML-defined roles, resources, and safety tiers
-- Returns deterministic `allow` / `deny` / `require_approval` decisions with structured audit reasoning
-- Generates tamper-evident audit logs (SHA-256 hash chain) and per-decision compliance evidence bundles
-- Supports agent policy envelopes for constraining non-human identities (bots, CI pipelines, AI systems)
+➡️ https://github.com/texasbe2trill/KoNotes
 
-➡️ https://github.com/texasbe2trill/policyforge
 
 ---
 
@@ -56,43 +56,6 @@ Things I currently focus on:
 - Emphasizes transparency, reproducibility, and measurable signal quality  
 
 ➡️ https://github.com/texasbe2trill/AlertSage
-
----
-
-### <img src="https://img.shields.io/badge/Project-ScenarioKit-FA7343?style=flat-square&logo=swift&logoColor=white" />
-**Visual security storyboards from macOS unified logs for incident response**
-
-- Converts raw macOS system events into visual HTML timelines with threat context
-- Applies Sigma detection rules to identify suspicious activity and extract MITRE ATT&CK techniques
-- Validates security test scenarios with fixture-based rule matching
-- Creates single-file, offline storyboards that make incident patterns immediately visible
-
-This project reflects how I approach security analysis at the host level:
-transforming **raw telemetry** into **actionable narratives** that surface the **who, what, when, and why** of security events.
-
-➡️ https://github.com/texasbe2trill/ScenarioKit
-
----
-
-### <img src="https://img.shields.io/badge/Project-ShodanR-276DC3?style=flat-square&logo=r&logoColor=white" />
-**R package for analyzing internet-exposed services using Shodan**
-
-- Programmatic access to Shodan data for exposure analysis and research  
-- Supports enrichment, aggregation, and reproducible reporting  
-- Useful for threat research, attack-surface analysis, and analytics workflows  
-
-➡️ https://github.com/texasbe2trill/ShodanR
-
----
-
-### <img src="https://img.shields.io/badge/Project-hooplyticsR-6f42c1?style=flat-square&logo=r&logoColor=white" />
-**Data analysis and modeling project using R**
-
-- Data ingestion, feature engineering, and exploratory analysis  
-- Demonstrates statistical reasoning and reproducible research practices  
-- Separate from security work, but representative of analytical rigor  
-
-➡️ https://github.com/texasbe2trill/hooplyticsR
 
 ---
 
