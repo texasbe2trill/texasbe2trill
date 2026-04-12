@@ -21,7 +21,7 @@ Things I currently focus on:
 
 ---
 
-### <img src="https://img.shields.io/badge/Project-KoNotes-3b82f6?style=flat-square" />
+### <img src="https://img.shields.io/badge/Project-KoNotes-3b82f6?style=flat-square&logo=python&logoColor=white" />
 **Kobo reading intelligence and insight engine (Python, Streamlit)**
 
 - Transforms KoboReader.sqlite data into structured insights across highlights, notes, vocabulary, and reading behavior
