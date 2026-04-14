@@ -1,61 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Incident%20Response%20%E2%80%A2%20Detection%20Engineering%20%2B%20Automation&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Applied%20Machine%20Learning%20%E2%80%A2%20Policy-Driven%20Controls&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering+%7C+Incident+Response;Detection+Engineering+%7C+Adversary+Analysis;Applied+ML+for+Security+%7C+NLP+%7C+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering;Machine+Learning+for+Security;Policy-Driven+Controls" />
 
 </div>
 
 ---
 
 ## <img src="https://img.shields.io/badge/Profile-About-000000?style=flat-square&logo=github" />
-I work in security incident response, analyzing how attackers interact with real systems and applying machine learning techniques to help surface meaningful signals during investigations.
+I work in security engineering and incident response, focused on understanding how real systems fail under attack and building systems that surface meaningful signal from noisy telemetry.
 
-My day-to-day work is about understanding incidents in context — how systems failed, how attackers operated, and which signals actually mattered under real operational constraints.
+My work sits at the intersection of **security, operations, and applied machine learning**, where investigation, automation, and policy come together to improve decision-making under real-world constraints.
 
-Things I currently focus on:
-- Security architecture, threat modeling, and risk analysis
-- Incident response and adversary simulation
-- Reliability, observability, and operational visibility in production systems
-- Applied ML and NLP for security analysis and triage
+**Current focus:**
+- Threat modeling, risk analysis, and adversary-driven investigation  
+- Incident response and simulation of real-world attack paths  
+- Observability, telemetry, and signal quality in production systems  
+- Applying ML and NLP to triage, prioritization, and decision support  
+- Designing policy-driven controls that are testable, auditable, and enforceable  
 
 ---
 
-### <img src="https://img.shields.io/badge/Project-KoNotes-3b82f6?style=flat-square&logo=python&logoColor=white" />
-**Kobo reading intelligence and insight engine (Python, Streamlit)**
+### <img src="https://img.shields.io/badge/Project-AlertSage-3776AB?style=flat-square&logo=python&logoColor=white" />
+**NLP-driven system for security alert triage (Python, Jupyter)**
 
-- Transforms KoboReader.sqlite data into structured insights across highlights, notes, vocabulary, and reading behavior
-- Local-first system that parses and normalizes reading telemetry without cloud dependencies or external APIs
-- Insight engine surfaces cross-book themes, reading patterns, and engagement signals using applied ML/NLP techniques
-- Streamlit UI + CLI workflows for exploring, filtering, and exporting reading intelligence in markdown, HTML, and text formats
-- Designed for explainability: all insights are backed by source data, timestamps, and traceable evidence
+- Applies text classification, feature extraction, and structured model evaluation to improve alert triage  
+- Designed to support analyst decision-making with transparent, reproducible workflows  
+- Focused on measurable signal quality over black-box automation  
 
-➡️ https://github.com/texasbe2trill/KoNotes
+➡️ https://github.com/texasbe2trill/AlertSage
 
+---
+
+### <img src="https://img.shields.io/badge/Project-PolicyForge-00ADD8?style=flat-square&logo=go&logoColor=white" />
+**Policy-as-code system for secure workflows and access decisioning (Go, CLI)**
+
+- Defines and enforces access policies across services and sensitive resources using version-controlled policy definitions  
+- Evaluates requests with deterministic outcomes (allow, deny, require_approval) for consistent, auditable decisions  
+- Standardizes how access and privilege boundaries are enforced across engineering environments  
+- Produces traceable decision artifacts supporting audit, compliance, and incident investigation  
+- CLI workflows for policy validation, simulation, and impact analysis before deployment  
+
+➡️ https://github.com/texasbe2trill/policyforge
 
 ---
 
 ### <img src="https://img.shields.io/badge/Project-macos--trust-3776AB?style=flat-square&logo=python&logoColor=white" />
-**Python-based context-aware macOS security scanner**
+**Context-aware macOS security assessment tool (Python, CLI)**
 
-- Command-line tool for intelligent macOS trust assessment and security scanning
-- Recognizes legitimate vendor tools to reduce false positives in security analysis
-- Analyzes applications, launch daemons, code signatures, and Gatekeeper status
-- Designed for security practitioners who need fast, accurate threat detection
+- Performs fast trust evaluation across applications, launch items, and system controls  
+- Reduces false positives by recognizing legitimate vendor and administrative patterns  
+- Built for practitioners who need accurate, explainable results under time pressure  
 
 ➡️ https://github.com/texasbe2trill/macos-trust
 
 ---
 
-### <img src="https://img.shields.io/badge/Project-AlertSage-3776AB?style=flat-square&logo=python&logoColor=white" />
-**Python / Jupyter-based NLP project for security alert triage**
+### <img src="https://img.shields.io/badge/Project-KoNotes-3b82f6?style=flat-square&logo=python&logoColor=white" />
+**Reading intelligence system for Kobo data (Python, Streamlit, NLP)**
 
-- Exploratory and applied NLP using Python and Jupyter notebooks  
-- Focused on text classification, feature extraction, and **systematic model evaluation**  
-- Designed to support analyst judgment rather than automate conclusions  
-- Emphasizes transparency, reproducibility, and measurable signal quality  
+- Transforms KoboReader.sqlite into structured insights across highlights, notes, and reading behavior  
+- Local-first pipeline for parsing and normalizing reading telemetry without external dependencies  
+- Applies NLP techniques to surface cross-book patterns with traceable, explainable outputs  
 
-➡️ https://github.com/texasbe2trill/AlertSage
+➡️ https://github.com/texasbe2trill/KoNotes
 
 ---
 
@@ -74,28 +83,20 @@ Things I currently focus on:
 <img src="https://skillicons.dev/icons?i=python,r,swift,go,linux,bash,git,github,vscode" />
 </div>
 
-- **Languages:** Python, R, Bash, Swift, Go
-- **Applied ML & Research:** Python (Jupyter), PyTorch, R; NLP, embeddings, model evaluation, applied statistics  
-- **Security:** Incident response, threat modeling, adversary simulation, security architecture & assurance  
-- **Systems:** Linux, service & application APIs, distributed systems, logging & telemetry, automation
+- **Languages:** Python, Go, R, Bash, Swift  
+- **AI / ML:** Python (Jupyter), PyTorch, NLP, embeddings, model evaluation, applied statistics  
+- **Security Engineering:** Threat modeling, incident response, adversary simulation  
+- **Governance & Controls:** Policy-as-code, control design, risk-based decisioning, auditability, compliance alignment (NIST, ISO, SOC 2)  
+- **Systems:** Linux, APIs, distributed systems, observability, telemetry, automation  
 
 ---
 
-## <img src="https://img.shields.io/badge/Philosophy-How%20I%20Build-444444?style=flat-square" />
-I approach security and AI work with a focus on:
-- **Evidence over assumptions** — models and controls should be testable and measurable  
-- **Engineer partnership** — security should enable delivery, not obstruct it  
-- **Operational realism** — designs must hold up under incident conditions  
-- **Simplicity at scale** — the best solutions are understandable and maintainable  
-
----
-
-
-## <img src="https://img.shields.io/badge/Direction-Current-444444?style=flat-square&logo=probot" />
-I’m currently focused on:
-- Applying ML and NLP to real security workflows  
-- Improving incident response through better analysis and tooling  
-- Building systems that balance **security, reliability, and developer experience**  
+## <img src="https://img.shields.io/badge/Approach-How%20I%20Build-444444?style=flat-square" />
+I build security, governance, and AI systems with a focus on:
+- **Evidence-driven decisions** — signals, models, and controls should be measurable, testable, and auditable  
+- **Engineering-aligned governance** — controls should integrate into real workflows  
+- **Operational resilience** — systems must hold up during incidents, audits, and scale  
+- **Practical simplicity** — solutions should be understandable, enforceable, and maintainable  
 
 ---
 
@@ -116,7 +117,6 @@ I’m currently focused on:
   <img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=for-the-badge" />
 </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=30,23,6,2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=30,23,6,2" />
 
-  
 </div>
