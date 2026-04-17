@@ -1,24 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Applied%20Machine%20Learning%20%E2%80%A2%20Policy-Driven%20Controls&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Chris%20Campbell&fontAlignY=40&desc=Security%20Engineering%20%E2%80%A2%20Applied%20AI%20Systems%20%E2%80%A2%20Policy-Driven%20Controls&descAlignY=60&color=gradient&customColorList=2,6,23,30" />
 
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering;Machine+Learning+for+Security;Policy-Driven+Controls" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=700&center=true&vCenter=true&width=900&lines=Security+Engineering;Applied+AI+Systems;Policy-Driven+Controls" />
 
 </div>
-
----
 
 ## <img src="https://img.shields.io/badge/Profile-About-000000?style=flat-square&logo=github" />
 I work in security engineering and incident response, focused on understanding how real systems fail under attack and building systems that surface meaningful signal from noisy telemetry.
 
-My work sits at the intersection of **security, operations, and applied machine learning**, where investigation, automation, and policy come together to improve decision-making under real-world constraints.
+My work sits at the intersection of **security, operations, and applied AI engineering**, where investigation, automation, and machine learning come together to improve decision-making under real-world constraints.
 
-**Current focus:**
-- Threat modeling, risk analysis, and adversary-driven investigation  
-- Incident response and simulation of real-world attack paths  
-- Observability, telemetry, and signal quality in production systems  
-- Applying ML and NLP to triage, prioritization, and decision support  
-- Designing policy-driven controls that are testable, auditable, and enforceable  
+## <img src="https://img.shields.io/badge/Focus-AI%20Systems-6b7280?style=flat-square&logo=openai&logoColor=white" />
+
+- Building LLM-powered systems for summarization, classification, and decision support across high-volume telemetry  
+- Developing retrieval-augmented generation (RAG) pipelines over structured and unstructured data  
+- Designing ML models for anomaly detection, triage, and prioritization in noisy, real-world datasets  
+- Focused on production-oriented AI systems: APIs, pipelines, and decision-support workflows under real-world constraints  
+- Applying security-driven thinking, including threat modeling, adversary simulation, and resilient system design  
+- Improving observability, telemetry quality, and signal extraction in complex distributed environments  
+- Designing policy-driven, auditable controls that integrate directly into engineering workflows   
 
 ---
 
@@ -30,6 +31,17 @@ My work sits at the intersection of **security, operations, and applied machine 
 - Focused on measurable signal quality over black-box automation  
 
 ➡️ https://github.com/texasbe2trill/AlertSage
+
+---
+
+### <img src="https://img.shields.io/badge/Project-KoNotes-3b82f6?style=flat-square&logo=python&logoColor=white" />
+**AI-powered knowledge system for extracting insight from personal reading data (Python, Streamlit, NLP, LLMs)**
+
+- Transforms KoboReader.sqlite into structured, queryable intelligence across highlights, notes, and reading behavior  
+- Implements NLP and LLM-based pipelines for summarization, classification, and pattern detection  
+- Designed as a local-first AI system with transparent, explainable outputs  
+
+➡️ https://github.com/texasbe2trill/KoNotes
 
 ---
 
@@ -57,17 +69,6 @@ My work sits at the intersection of **security, operations, and applied machine 
 
 ---
 
-### <img src="https://img.shields.io/badge/Project-KoNotes-3b82f6?style=flat-square&logo=python&logoColor=white" />
-**Reading intelligence system for Kobo data (Python, Streamlit, NLP)**
-
-- Transforms KoboReader.sqlite into structured insights across highlights, notes, and reading behavior  
-- Local-first pipeline for parsing and normalizing reading telemetry without external dependencies  
-- Applies NLP techniques to surface cross-book patterns with traceable, explainable outputs  
-
-➡️ https://github.com/texasbe2trill/KoNotes
-
----
-
 ## <img src="https://img.shields.io/badge/Activity-GitHub-24292e?style=flat-square&logo=github" />
 <div align="center">
 
@@ -84,7 +85,7 @@ My work sits at the intersection of **security, operations, and applied machine 
 </div>
 
 - **Languages:** Python, Go, R, Bash, Swift  
-- **AI / ML:** Python (Jupyter), PyTorch, NLP, embeddings, model evaluation, applied statistics  
+- **AI Systems & Machine Learning:** PyTorch, NLP, embeddings, LLMs, RAG, model evaluation, applied statistics  
 - **Security Engineering:** Threat modeling, incident response, adversary simulation  
 - **Governance & Controls:** Policy-as-code, control design, risk-based decisioning, auditability, compliance alignment (NIST, ISO, SOC 2)  
 - **Systems:** Linux, APIs, distributed systems, observability, telemetry, automation  
