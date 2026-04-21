@@ -38,10 +38,11 @@ My work sits at the intersection of **security, data analytics, and applied AI**
 ### <img src="https://img.shields.io/badge/Project-KoNotes-3b82f6?style=flat-square&logo=python&logoColor=white" />
 **AI-assisted knowledge system for extracting insight from personal reading data (Python, Streamlit, NLP, LLMs)**
 
-- Transforms KoboReader.sqlite into structured, queryable intelligence across highlights, notes, and reading behavior  
-- Implements NLP and LLM-based pipelines for summarization, classification, and pattern detection  
-- Focused on surfacing patterns, themes, and insights from reading behavior  
-- Designed as a local-first system with transparent, explainable outputs  
+- Transforms KoboReader.sqlite into structured, queryable intelligence across highlights, notes, and reading behavior
+- Implements NLP and LLM pipelines for summarization, classification, and behavioral pattern detection
+- Generates data-driven recommendations (revisit, finish, export, compare) based on engagement signals and annotation density
+- Uses an explainable, rule-based recommender grounded in user-specific reading data (no black-box ranking)
+- Designed as a local-first system with privacy-preserving, auditable outputs
 
 ➡️ https://github.com/texasbe2trill/KoNotes
 
