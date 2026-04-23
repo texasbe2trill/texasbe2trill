@@ -48,14 +48,16 @@ My work sits at the intersection of **security, data analytics, and applied AI**
 
 ---
 
-### <img src="https://img.shields.io/badge/Project-hooplyticsR-276DC3?style=flat-square&logo=r&logoColor=white" />
-**Basketball analytics project exploring player and team performance (R, data analysis)**
+### <img src="https://img.shields.io/badge/Project-Hooplytics-3776AB?style=flat-square&logo=python&logoColor=white" />
+**NBA player analytics with machine learning — projections, fantasy decisions, and interactive visualizations (Python, data science)**
 
-- Analyzes player and team statistics to identify trends, efficiency patterns, and performance drivers  
-- Applies data exploration and visualization techniques to uncover actionable insights  
-- Focused on translating raw sports data into clear, interpretable analysis  
+- Fetches real box-score data from the NBA Stats API and caches it locally for instant reruns
+- Trains 8 tuned ML models (kNN + Random Forest) to project points, rebounds, assists, PRA, 3PM, stocks, turnovers, and fantasy score
+- Powers a More/Less decision engine that blends model predictions with sportsbook lines and auto-derived recent form
+- Delivers rich interactive visualizations: rolling trend lines, player profile radars, and distribution comparisons
 
-➡️ https://github.com/texasbe2trill/hooplyticsR
+➡️ https://github.com/texasbe2trill/hooplytics
+
 
 ---
 
