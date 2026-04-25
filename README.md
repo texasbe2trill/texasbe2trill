@@ -49,12 +49,12 @@ My work sits at the intersection of **security, data analytics, and applied AI**
 ---
 
 ### <img src="https://img.shields.io/badge/Project-Hooplytics-3776AB?style=flat-square&logo=python&logoColor=white" />
-**NBA player analytics with machine learning — projections, fantasy decisions, and interactive visualizations (Python, data science)**
+**NBA player analytics workbench — projections, form trends, line context, and model diagnostics (Python, ML)**
 
-- Fetches real box-score data from the NBA Stats API and caches it locally for instant reruns
-- Trains 8 tuned ML models (kNN + Random Forest) to project points, rebounds, assists, PRA, 3PM, stocks, turnovers, and fantasy score
-- Powers a More/Less decision engine that blends model predictions with sportsbook lines and auto-derived recent form
-- Delivers rich interactive visualizations: rolling trend lines, player profile radars, and distribution comparisons
+- Fetches real box-score game logs from the NBA Stats API and caches them locally as Parquet for fast, reproducible analysis
+- Trains 8 ML models (kNN, Ridge, Random Forest) across 8 stat targets: points, rebounds, assists, PRA, 3PM, stocks, turnovers, and fantasy score
+- Compares model projections against live market lines from The Odds API — surfacing projection gaps, form context, and historical thresholds, not just a raw prediction
+- Delivers interactive visualizations across a 6-page Streamlit dashboard: rolling trend lines, player profile radars, predicted-vs-actual diagnostics, feature importance, and distribution comparisons
 
 ➡️ https://github.com/texasbe2trill/hooplytics
 
