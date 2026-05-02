@@ -38,7 +38,7 @@ I build data science and ML systems end to end, then ship them. Feature engineer
 </td>
 <td align="center" width="33%">
 <h3>4</h3>
-<sub>shipped open-source projects, 2 with live apps</sub>
+<sub>shipped open-source projects, 3 with live apps</sub>
 </td>
 </tr>
 </table>
@@ -108,6 +108,7 @@ Local-first AI-assisted knowledge analytics. Converts Kobo and Kindle annotation
 
 Reusable workflow for security alert classification: TF-IDF and lexical features, calibrated thresholds, and a structured evaluation harness for repeatable model comparison.
 
+<a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 <a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
