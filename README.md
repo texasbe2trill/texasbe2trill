@@ -92,6 +92,17 @@ End-to-end ML platform: ingest game logs, engineer 60+ leakage-safe features, tr
 <tr>
 <td width="33%" valign="top">
 
+### 🚨 [AlertSage](https://github.com/texasbe2trill/AlertSage)
+<sub>**Python · Jupyter · scikit-learn**</sub>
+
+Reusable workflow for security alert classification: TF-IDF and lexical features, calibrated thresholds, and a structured evaluation harness for repeatable model comparison.
+
+<a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+
+</td>
+<td width="34%" valign="top">
+
 ### 📚 [KoNotes](https://github.com/texasbe2trill/KoNotes)
 <sub>**Python · Streamlit · LLMs · NLP**</sub>
 
@@ -103,16 +114,6 @@ Local-first AI-assisted knowledge analytics. Converts Kobo and Kindle annotation
 </td>
 <td width="33%" valign="top">
 
-### 🚨 [AlertSage](https://github.com/texasbe2trill/AlertSage)
-<sub>**Python · Jupyter · scikit-learn**</sub>
-
-Reusable workflow for security alert classification: TF-IDF and lexical features, calibrated thresholds, and a structured evaluation harness for repeatable model comparison.
-
-<a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
-<a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="34%" valign="top">
 
 ### 🍎 [macos-trust](https://github.com/texasbe2trill/macos-trust)
 <sub>**Python · CLI**</sub>
