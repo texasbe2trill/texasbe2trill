@@ -151,11 +151,6 @@ Context-aware macOS trust assessment. Fast evaluation of apps, launch items, and
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=texasbe2trill&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=texasbe2trill&hide_border=true&theme=github_dark&hide=Jupyter%20Notebook&layout=compact" />
-
-<br>
-
 <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=texasbe2trill&hide_border=true&theme=github-dark-blue" />
 
 </div>
