@@ -115,7 +115,7 @@ Free-text security incident in, MITRE ATT&CK triage card out. A TF-IDF + sentenc
 
 End-to-end NBA analytics. 60+ leakage-safe features, 8 calibrated regressors, regime-aware playoff bundle swap, live odds, printable PDFs.
 
-**PRA holdout R² 0.615** (chronological, n_test 43K)
+***PRA holdout → R² 0.615 · n_test 43K***
 
 <a href="https://hooplytics.streamlit.app"><img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 <a href="https://github.com/texasbe2trill/hooplytics"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
