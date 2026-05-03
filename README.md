@@ -29,55 +29,73 @@ I build data science and ML systems end to end, then ship them. Feature engineer
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>215K</h3>
-<sub>row chronological train/test split across 8 NBA targets</sub>
+<h3>🛡️ Security</h3>
+<b>MITRE ATT&CK triage</b><br>
+<sub>Free-text incidents → calibrated triage cards via hybrid classifier + LLM rationale</sub>
 </td>
 <td align="center" width="34%">
-<h3>R² 0.615</h3>
-<sub>PRA holdout, chronological split (n_test = 43K)</sub>
+<h3>📊 Data Science</h3>
+<b>R² 0.615 PRA holdout</b><br>
+<sub>Calibrated regressors, time-aware validation, regime-aware bundles (n_test 43K)</sub>
 </td>
 <td align="center" width="33%">
-<h3>4</h3>
-<sub>shipped open-source projects, 3 with live apps</sub>
+<h3>🤖 Applied LLMs</h3>
+<b>4 pluggable backends</b><br>
+<sub>OpenAI · Anthropic · Hugging Face · local llama.cpp — structured extraction & rationale</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Featured Project: Hooplytics
+## 🚀 Featured Project: AlertSage
 
 <table>
 <tr>
 <td width="62%" valign="top">
 
-### NBA Player Analytics & Decision-Support Platform
-<sub>**Python · scikit-learn · pandas · Streamlit · Typer · joblib**</sub>
+### Open-Source SOC Console
+<sub>**Python · scikit-learn · sentence-transformers · Streamlit · LLMs · SQLite**</sub>
 
-End-to-end ML platform: ingest game logs, engineer 60+ leakage-safe features, train and calibrate 8 regressors, swap in a regime-aware playoff bundle when the post-season hits, and ship the result through a Streamlit app, a CLI, and printable PDFs.
+Free-text security incident in, MITRE ATT&CK triage card out. A TF-IDF + sentence-transformer hybrid handles the fast first pass. An LLM (OpenAI, Anthropic, Hugging Face, or local llama.cpp) commits to the verdict and writes the rationale. SQLite backs case management, bookmarks, timelines, and batch processing up to 500 rows.
 
-**Held-out R² (chronological split, n_test = 43,000):**
-
-| Target | R² | MAE | | Target | R² | MAE |
-|:--|--:|--:|:--|:--|--:|--:|
-| **PRA** | **0.615** | 6.03 | | Rebounds | 0.499 | 1.89 |
-| Fantasy | 0.571 | 7.81 | | Turnovers | 0.336 | 0.87 |
-| Points | 0.540 | 4.59 | | 3PM | 0.305 | 0.89 |
-| Assists | 0.530 | 1.39 | | STL+BLK | 0.193 | 0.95 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Free--Text_Incident-555?style=for-the-badge" />
+  <br>↓<br>
+  <img src="https://img.shields.io/badge/Hybrid_Classifier-~1.4s-0a66c2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <br><sub>TF-IDF + sentence-transformer</sub><br>↓<br>
+  <img src="https://img.shields.io/badge/LLM_Rationale-~5s-8B5CF6?style=for-the-badge" />
+  <br><sub>OpenAI · Anthropic · HF · local llama.cpp</sub><br>↓<br>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK_Triage_Card-instant-FF4B4B?style=for-the-badge" />
+</p>
 
 </td>
 <td width="38%" valign="top" align="center">
 
-<a href="https://hooplytics.streamlit.app">
+<a href="https://alertsage.streamlit.app">
   <img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 <br><br>
-<a href="https://github.com/texasbe2trill/hooplytics">
+<a href="https://github.com/texasbe2trill/AlertSage">
   <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br><br>
-<a href="https://github.com/texasbe2trill/hooplytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=texasbe2trill&repo=hooplytics&theme=github_dark&hide_border=true" />
+<br>
+
+<sub>🎯 MITRE ATT&CK-mapped output</sub><br>
+<sub>🔌 4 pluggable LLM backends</sub><br>
+<sub>⚡ Fast classifier + LLM rationale</sub><br>
+<sub>💾 SQLite case management</sub><br>
+<sub>📊 Batch up to 500 rows</sub>
+
+<br><br>
+
+<a href="https://github.com/texasbe2trill/AlertSage/stargazers">
+  <img src="https://img.shields.io/github/stars/texasbe2trill/AlertSage?style=social" />
+</a>
+&nbsp;
+<a href="https://github.com/texasbe2trill/AlertSage/network/members">
+  <img src="https://img.shields.io/github/forks/texasbe2trill/AlertSage?style=social" />
 </a>
 
 </td>
@@ -92,13 +110,15 @@ End-to-end ML platform: ingest game logs, engineer 60+ leakage-safe features, tr
 <tr>
 <td width="33%" valign="top">
 
-### 🚨 [AlertSage](https://github.com/texasbe2trill/AlertSage)
-<sub>**Python · Jupyter · scikit-learn**</sub>
+### 🏀 [Hooplytics](https://github.com/texasbe2trill/hooplytics)
+<sub>**Python · scikit-learn · pandas · Streamlit**</sub>
 
-Reusable workflow for security alert classification: TF-IDF and lexical features, calibrated thresholds, and a structured evaluation harness for repeatable model comparison.
+End-to-end NBA analytics. 60+ leakage-safe features, 8 calibrated regressors, regime-aware playoff bundle swap, live odds, printable PDFs.
 
-<a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
-<a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+**PRA holdout R² 0.615** (chronological, n_test 43K)
+
+<a href="https://hooplytics.streamlit.app"><img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="https://github.com/texasbe2trill/hooplytics"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 <td width="34%" valign="top">
@@ -113,7 +133,6 @@ Local-first AI-assisted knowledge analytics. Converts Kobo and Kindle annotation
 
 </td>
 <td width="33%" valign="top">
-
 
 ### 🍎 [macos-trust](https://github.com/texasbe2trill/macos-trust)
 <sub>**Python · CLI**</sub>
