@@ -50,57 +50,38 @@ I build data science and ML systems end to end, then ship them. Feature engineer
 
 ## 🚀 Featured Project: AlertSage
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<div align="center">
 
 ### Open-Source SOC Console
-<sub>**Python · scikit-learn · sentence-transformers · Streamlit · LLMs · SQLite**</sub>
+<sub>Python · scikit-learn · sentence-transformers · Streamlit · LLMs · SQLite</sub>
+
+<br>
 
 Free-text security incident in, MITRE ATT&CK triage card out. A TF-IDF + sentence-transformer hybrid handles the fast first pass. An LLM (OpenAI, Anthropic, Hugging Face, or local llama.cpp) commits to the verdict and writes the rationale. SQLite backs case management, bookmarks, timelines, and batch processing up to 500 rows.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Free--Text_Incident-555?style=for-the-badge" />
-  <br>↓<br>
-  <img src="https://img.shields.io/badge/Hybrid_Classifier-~1.4s-0a66c2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <br><sub>TF-IDF + sentence-transformer</sub><br>↓<br>
-  <img src="https://img.shields.io/badge/LLM_Rationale-~5s-8B5CF6?style=for-the-badge" />
-  <br><sub>OpenAI · Anthropic · HF · local llama.cpp</sub><br>↓<br>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK_Triage_Card-instant-FF4B4B?style=for-the-badge" />
-</p>
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<a href="https://alertsage.streamlit.app">
-  <img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</a>
-<br><br>
-<a href="https://github.com/texasbe2trill/AlertSage">
-  <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br><br>
 <br>
 
-<sub>🎯 MITRE ATT&CK-mapped output</sub><br>
-<sub>🔌 4 pluggable LLM backends</sub><br>
-<sub>⚡ Fast classifier + LLM rationale</sub><br>
-<sub>💾 SQLite case management</sub><br>
-<sub>📊 Batch up to 500 rows</sub>
+<a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br><br>
 
-<a href="https://github.com/texasbe2trill/AlertSage/stargazers">
-  <img src="https://img.shields.io/github/stars/texasbe2trill/AlertSage?style=social" />
-</a>
-&nbsp;
-<a href="https://github.com/texasbe2trill/AlertSage/network/members">
-  <img src="https://img.shields.io/github/forks/texasbe2trill/AlertSage?style=social" />
-</a>
+<img src="https://img.shields.io/badge/Free--Text_Incident-555?style=for-the-badge" />
+<br>↓<br>
+<img src="https://img.shields.io/badge/Hybrid_Classifier-~1.4s-0a66c2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<br><sub>TF-IDF + sentence-transformer</sub><br>
+↓<br>
+<img src="https://img.shields.io/badge/LLM_Rationale-~5s-8B5CF6?style=for-the-badge" />
+<br><sub>OpenAI · Anthropic · HF · local llama.cpp</sub><br>
+↓<br>
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK_Triage_Card-instant-FF4B4B?style=for-the-badge" />
 
-</td>
-</tr>
-</table>
+<br><br>
+
+<sub>🎯 MITRE ATT&CK-mapped output &nbsp;·&nbsp; 🔌 4 pluggable LLM backends &nbsp;·&nbsp; ⚡ Fast classifier + LLM rationale &nbsp;·&nbsp; 💾 SQLite case management &nbsp;·&nbsp; 📊 Batch up to 500 rows</sub>
+
+</div>
 
 ---
 
