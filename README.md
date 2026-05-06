@@ -3,7 +3,7 @@
 <h1>Chris Campbell</h1>
 
 <a href="https://github.com/texasbe2trill">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Security+engineering+%E2%86%92+Data+Science;End-to-end+ML+on+real+datasets;Calibration+%C2%B7+Validation+%C2%B7+Applied+LLMs" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Security+engineering+%C2%B7+Data+Science+%C2%B7+Applied+LLMs;Forensics+%C2%B7+Predictive+models+%C2%B7+Shipped+systems;Python+%C2%B7+KQL+%C2%B7+pandas+%C2%B7+scikit-learn" alt="typing header" />
 </a>
 
 ### Real data. Measured outcomes. Shipped systems.
@@ -22,66 +22,64 @@
 
 ## 🎯 What I Do
 
-I build data science and ML systems end to end, then ship them. Feature engineering, calibration, validation, the unglamorous work that decides whether a model is actually useful. By day, I'm a security engineer building Python forensic automation and applied LLM workflows over high-volume operational and behavioral data.
+I work at the intersection of security engineering and data science, building forensic automation, predictive models, then shipping them. Eight years of security domain knowledge feeding ML feature sets nobody else thinks to engineer. By day, a senior security engineer building Python automation and applied LLM workflows over high-volume operational data. Outside of work, I ship end-to-end data science and security projects with live deployments, reproducible pipelines, and test suites.
 
-<sub>**Currently exploring:** regime-aware recalibration, LLM grounding, and time-aware validation patterns for production model bundles.</sub>
+<sub>**Currently exploring:** regime-aware recalibration, context-aware security scanning, and LLM grounding for structured extraction.</sub>
 
 <table>
 <tr>
 <td align="center" width="33%">
-<h3>🛡️ Security</h3>
-<b>MITRE ATT&CK triage</b><br>
-<sub>Free-text incidents → calibrated triage cards via hybrid classifier + LLM rationale</sub>
+<h3>🛡️ Security Engineering</h3>
+<b>Detection · Forensics · IR</b><br>
+<sub>Python automation · KQL · forensic analysis · Panther detection-as-code · CVE triage</sub>
 </td>
 <td align="center" width="34%">
 <h3>📊 Data Science</h3>
 <b>R² 0.615 PRA holdout</b><br>
-<sub>Calibrated regressors, time-aware validation, regime-aware bundles (n_test 43K)</sub>
+<sub>Calibrated regressors · time-aware validation · regime-aware bundles · n_test 43K</sub>
 </td>
 <td align="center" width="33%">
 <h3>🤖 Applied LLMs</h3>
 <b>4 pluggable backends</b><br>
-<sub>OpenAI · Anthropic · Hugging Face · local llama.cpp — structured extraction & rationale</sub>
+<sub>OpenAI · Anthropic · Hugging Face · local llama.cpp · IOC extraction & structured rationale</sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🚀 Featured Project: AlertSage
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Open-Source SOC Console
-<sub>Python · scikit-learn · sentence-transformers · Streamlit · LLMs · SQLite</sub>
+### 🛡️ [AlertSage](https://github.com/texasbe2trill/AlertSage): SOC Triage Console
+<sub>**Python · scikit-learn · sentence-transformers · Streamlit · LLMs · SQLite**</sub>
 
-<br>
+Free-text security incident in, MITRE ATT&CK triage card out. A TF-IDF + sentence-transformer hybrid handles the fast first pass. An LLM (OpenAI, Anthropic, Hugging Face, or local llama.cpp) commits to the verdict and writes the rationale, with hallucination guardrails that downgrade to deterministic output when the model diverges from source.
 
-Free-text security incident in, MITRE ATT&CK triage card out. A TF-IDF + sentence-transformer hybrid handles the fast first pass. An LLM (OpenAI, Anthropic, Hugging Face, or local llama.cpp) commits to the verdict and writes the rationale. SQLite backs case management, bookmarks, timelines, and batch processing up to 500 rows.
+***8-class taxonomy · 13 MITRE ATT&CK tactics · SQLite case management · batch up to 500 rows***
 
-<br>
+<a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-<a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-&nbsp;&nbsp;
-<a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</td>
+<td width="50%" valign="top">
 
-<br><br>
+### 🏀 [Hooplytics](https://github.com/texasbe2trill/hooplytics): NBA Analytics Platform
+<sub>**Python · scikit-learn · pandas · Streamlit · Sports APIs**</sub>
 
-<img src="https://img.shields.io/badge/Free--Text_Incident-555?style=for-the-badge" />
-<br>↓<br>
-<img src="https://img.shields.io/badge/Hybrid_Classifier-~1.4s-0a66c2?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<br><sub>TF-IDF + sentence-transformer</sub><br>
-↓<br>
-<img src="https://img.shields.io/badge/LLM_Rationale-~5s-8B5CF6?style=for-the-badge" />
-<br><sub>OpenAI · Anthropic · HF · local llama.cpp</sub><br>
-↓<br>
-<img src="https://img.shields.io/badge/MITRE_ATT%26CK_Triage_Card-instant-FF4B4B?style=for-the-badge" />
+End-to-end analytics platform for NBA player outcomes. 60+ leakage-safe features across rolling windows, role/matchup context, and rest effects. 8 calibrated regressors on a 215K-row chronological holdout. Regime-aware playoff bundle swap lifts PRA R² from 0.615 → 0.695 without retraining.
 
-<br><br>
+***PRA R² 0.615 · n_train 172K · n_test 43K · automated promotion gate***
 
-<sub>🎯 MITRE ATT&CK-mapped output &nbsp;·&nbsp; 🔌 4 pluggable LLM backends &nbsp;·&nbsp; ⚡ Fast classifier + LLM rationale &nbsp;·&nbsp; 💾 SQLite case management &nbsp;·&nbsp; 📊 Batch up to 500 rows</sub>
+<a href="https://hooplytics.streamlit.app"><img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
+<a href="https://github.com/texasbe2trill/hooplytics"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -89,38 +87,30 @@ Free-text security incident in, MITRE ATT&CK triage card out. A TF-IDF + sentenc
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🏀 [Hooplytics](https://github.com/texasbe2trill/hooplytics)
-<sub>**Python · scikit-learn · pandas · Streamlit**</sub>
+### 🍎 [macos-trust](https://github.com/texasbe2trill/macos-trust)
+<sub>**Python · Typer CLI · SARIF 2.1.0 · Homebrew tap**</sub>
 
-End-to-end NBA analytics. 60+ leakage-safe features, 8 calibrated regressors, regime-aware playoff bundle swap, live odds, printable PDFs.
+Context-aware macOS security scanner. Identifies unsigned apps, Gatekeeper violations, and suspicious persistence mechanisms with smart vendor recognition. Entitlements auditing, browser extension analysis, baseline/diff mode, and SARIF output for GitHub Advanced Security.
 
-***PRA holdout → R² 0.615 · n_test 43K***
+***59 passing tests · Homebrew tap · Privacy-first, read-only***
 
-<a href="https://hooplytics.streamlit.app"><img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
-<a href="https://github.com/texasbe2trill/hooplytics"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://texasbe2trill.github.io/macos-trust/example-report.html"><img src="https://img.shields.io/badge/Live_Report-0a66c2?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://github.com/texasbe2trill/macos-trust"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
-<td width="34%" valign="top">
+<td width="50%" valign="top">
 
 ### 📚 [KoNotes](https://github.com/texasbe2trill/KoNotes)
 <sub>**Python · Streamlit · LLMs · NLP**</sub>
 
-Local-first AI-assisted knowledge analytics. Converts Kobo and Kindle annotations into structured, queryable insight with explainable, rule-based recommendations.
+Local-first reading intelligence platform. Converts Kobo and Kindle annotations into structured, queryable insight with semantic theme clustering, similarity search, LLM chat integration, and rule-based recommendations.
+
+***571 tests · 20+ modules · 7-subcommand CLI***
 
 <a href="https://konotes.streamlit.app"><img src="https://img.shields.io/badge/Live-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 <a href="https://github.com/texasbe2trill/KoNotes"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
-
-</td>
-<td width="33%" valign="top">
-
-### 🍎 [macos-trust](https://github.com/texasbe2trill/macos-trust)
-<sub>**Python · CLI**</sub>
-
-Context-aware macOS trust assessment. Fast evaluation of apps, launch items, and system controls with low false-positive design.
-
-<a href="https://github.com/texasbe2trill/macos-trust"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
 </tr>
@@ -139,11 +129,10 @@ Context-aware macOS trust assessment. Fast evaluation of apps, launch items, and
 | | |
 |---|---|
 | **ML / Modeling** | scikit-learn, classification, regression, calibration, time-aware validation, residual diagnostics, threshold tuning |
+| **Security domain** | detection-as-code (Panther), forensic automation, KQL, Snowflake SQL, macOS trust assessment |
+| **Applied AI** | LLM IOC extraction, incident classification, hallucination guardrails, multi-provider routing, AI-assisted case reporting |
 | **Python data stack** | Python, SQL, pandas, NumPy, statistical reasoning, EDA, reproducible Jupyter workflows |
-| **Applied AI** | LLM summarization, structured extraction, text classification, AI-assisted triage and case reporting |
-| **Query & detection** | SQL (incl. Snowflake), KQL, Splunk SPL, query optimization, detection-as-code (Panther) |
-| **Security domain** | telemetry analysis, forensic automation, investigation analytics, control monitoring |
-| **Delivery** | Streamlit dashboards, Typer CLIs, joblib model artifacts, ReportLab reports, REST APIs |
+| **Delivery** | Streamlit dashboards, Typer CLIs, SARIF 2.1.0, JSON pipelines, joblib model artifacts, REST APIs |
 
 ---
 
