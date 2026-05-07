@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <a href="https://bsky.app/profile/texasbe2trill.bsky.social"><img src="https://img.shields.io/badge/BlueSky-@texasbe2trill-0285FF?style=flat-square&logo=bluesky&logoColor=white" /></a>
+  <a href="mailto:chris@texasbe2trill.com"><img src="https://img.shields.io/badge/Email-chris%40texasbe2trill.com-0a66c2?style=flat-square&logo=maildotru&logoColor=white" /></a>
 </p>
 
 </div>
