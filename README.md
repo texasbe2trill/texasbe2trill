@@ -137,14 +137,6 @@ Local-first reading intelligence platform. Converts Kobo and Kindle annotations 
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=texasbe2trill&hide_border=true&theme=github-dark-blue" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=2,6,23,30" width="100%" />
 
 <div align="center">
