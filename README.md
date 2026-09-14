@@ -17,50 +17,55 @@
 
 <br>
 
+<div align="center">
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" valign="top" width="180">
 <h2>5</h2>
 <sub>shipped projects<br><b>live or installable</b></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" valign="top" width="180">
 <h2>22</h2>
 <sub>Garmin watch models<br><b>run SolarHarvest</b></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" valign="top" width="180">
 <h2>700+</h2>
 <sub>automated tests<br><b>across my projects</b></sub>
 </td>
-<td align="center" width="25%">
+<td align="center" valign="top" width="180">
 <h2>13</h2>
 <sub>MITRE ATT&amp;CK tactics<br><b>mapped by AlertSage</b></sub>
 </td>
 </tr>
 </table>
+</div>
+
 
 ## 👋 About Me
 
 I'm a senior security engineer with 8+ years in the field, and I build the software around the security work: automation, detection logic kept in version control, and tools that ship with tests and live deployments. Outside of work I publish open-source projects, from a macOS security scanner and an LLM-assisted alert triage console to a Garmin watch app now live on the Connect IQ Store.
 
+<div align="center">
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="top" width="250">
 <h3>🛡️ Security Depth</h3>
 <b>Detection · Forensics · IR</b><br>
 <sub>CVE triage · KQL · detection-as-code</sub>
 </td>
-<td align="center" width="34%">
+<td align="center" valign="top" width="250">
 <h3>⚙️ Software That Ships</h3>
-<b>Tested · Deployed · Maintained</b><br>
+<b>Built · Tested · Deployed</b><br>
 <sub>Python · Monkey C · CLIs · Streamlit</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" valign="top" width="250">
 <h3>🤖 Applied AI</h3>
 <b>4 pluggable LLM backends</b><br>
 <sub>OpenAI · Anthropic · llama.cpp</sub>
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
