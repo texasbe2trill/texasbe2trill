@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Senior%20Security%20and%20Software%20Engineer&descSize=19&descAlignY=58&animation=fadeIn&section=header&color=0:0d1117%2C55:1f3a68%2C100:1f6feb" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Senior%20Security%20Engineer&descSize=19&descAlignY=58&animation=fadeIn&section=header&color=0:0d1117%2C55:1f3a68%2C100:1f6feb" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Senior%20Security%20and%20Software%20Engineer&descSize=19&descAlignY=58&animation=fadeIn&section=header&color=0:0a3d91%2C100:1f6feb" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Senior%20Security%20and%20Software%20Engineer&descSize=19&descAlignY=58&animation=fadeIn&section=header&color=0:0a3d91%2C100:1f6feb" width="100%" alt="Chris Campbell, Senior Security and Software Engineer" />
 </picture>
