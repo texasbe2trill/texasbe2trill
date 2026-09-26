@@ -1,67 +1,44 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Senior%20Security%20Engineer&descSize=19&descAlignY=58&animation=fadeIn&section=header&color=0:0d1117%2C55:1f3a68%2C100:1f6feb" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Senior%20Security%20and%20Software%20Engineer&descSize=19&descAlignY=58&animation=fadeIn&section=header&color=0:0a3d91%2C100:1f6feb" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Senior%20Security%20and%20Software%20Engineer&descSize=19&descAlignY=58&animation=fadeIn&section=header&color=0:0a3d91%2C100:1f6feb" width="100%" alt="Chris Campbell, Senior Security and Software Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Blue%20Team%20%C2%B7%20Forensics%20%C2%B7%20Incident%20Command&descSize=24&descAlignY=58&animation=fadeIn&section=header&color=0:0d1117%2C55:1f3a68%2C100:1f6feb" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Blue%20Team%20%C2%B7%20Forensics%20%C2%B7%20Incident%20Command&descSize=24&descAlignY=58&animation=fadeIn&section=header&color=0:0a3d91%2C100:1f6feb" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&text=Chris%20Campbell&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Blue%20Team%20%C2%B7%20Forensics%20%C2%B7%20Incident%20Command&descSize=24&descAlignY=58&animation=fadeIn&section=header&color=0:0a3d91%2C100:1f6feb" width="100%" alt="Chris Campbell: Blue Team · Forensics · Incident Command" />
 </picture>
 
 <a href="https://github.com/texasbe2trill">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Security+engineer+who+ships+software;Detection+%C2%B7+Forensics+%C2%B7+Automation;Wearables+%C2%B7+Applied+LLMs+%C2%B7+Tooling;Python+%C2%B7+Monkey+C+%C2%B7+KQL+%C2%B7+SQL" alt="Security engineer who ships software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Blue+team%3A+I+investigate%2C+hunt%2C+and+respond;Forensics+%C2%B7+Incident+command+%C2%B7+Threat+hunting;Endpoint%2C+network%2C+and+identity+correlation;LLM-assisted+triage+%C2%B7+Sigma+%C2%B7+KQL+%C2%B7+SPL" alt="Blue team: I investigate, hunt, and respond" />
 </a>
 
 <a href="mailto:chris@texasbe2trill.com"><img src="https://img.shields.io/badge/Email-chris%40texasbe2trill.com-0a66c2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
-<a href="https://bsky.app/profile/texasbe2trill.bsky.social"><img src="https://img.shields.io/badge/BlueSky-@texasbe2trill-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="BlueSky" /></a>
+<a href="https://texasbe2trill.github.io/AlertSage/"><img src="https://img.shields.io/badge/Start_with-AlertSage_docs-1f6feb?style=for-the-badge&logo=materialformkdocs&logoColor=white" alt="Start with the AlertSage docs" /></a>
 
 </div>
 
 <br>
 
+I've spent 8+ years in security, most of it in detection and response: writing detections, hunting threats, running forensics, and serving as incident commander on high-impact incidents. I also build the security tools I want on hand during an investigation. The four security tools on this page are open source, tested, and green in CI, so you can read the code before you take my word for it.
+
 <div align="center">
 <table>
 <tr>
-<td align="center" valign="top" width="180">
-<h2>5</h2>
-<sub>shipped projects<br><b>live or installable</b></sub>
+<td align="center" valign="top" width="50%">
+<h2>35%</h2>
+<sub>lower average time to mitigate<br><b>KQL over Sentinel and Defender</b></sub>
 </td>
-<td align="center" valign="top" width="180">
-<h2>22</h2>
-<sub>Garmin watch models<br><b>run SolarHarvest</b></sub>
-</td>
-<td align="center" valign="top" width="180">
-<h2>700+</h2>
-<sub>automated tests<br><b>across my projects</b></sub>
-</td>
-<td align="center" valign="top" width="180">
-<h2>13</h2>
-<sub>MITRE ATT&amp;CK tactics<br><b>mapped by AlertSage</b></sub>
+<td align="center" valign="top" width="50%">
+<h2>&lt;3 min</h2>
+<sub>time to acknowledge<br><b>for the response rotation</b></sub>
 </td>
 </tr>
-</table>
-</div>
-
-
-## 👋 About Me
-
-I'm a senior security engineer with 8+ years in the field, and I build the software around the security work: automation, detection logic kept in version control, and tools that ship with tests and live deployments. Outside of work I publish open-source projects, from a macOS security scanner and an LLM-assisted alert triage console to a Garmin watch app now live on the Connect IQ Store.
-
-<div align="center">
-<table>
 <tr>
-<td align="center" valign="top" width="250">
-<h3>🛡️ Security Depth</h3>
-<b>Detection · Forensics · IR</b><br>
-<sub>CVE triage · KQL · detection-as-code</sub>
+<td align="center" valign="top" width="50%">
+<h2>~42%</h2>
+<sub>shorter median forensic case time<br><b>about 6h to 3.5h with Python automation</b></sub>
 </td>
-<td align="center" valign="top" width="250">
-<h3>⚙️ Software That Ships</h3>
-<b>Built · Tested · Deployed</b><br>
-<sub>Python · Monkey C · CLIs · Streamlit</sub>
-</td>
-<td align="center" valign="top" width="250">
-<h3>🤖 Applied AI</h3>
-<b>4 pluggable LLM backends</b><br>
-<sub>OpenAI · Anthropic · llama.cpp</sub>
+<td align="center" valign="top" width="50%">
+<h2>20</h2>
+<sub>open-source Sigma rules<br><b>34 ATT&amp;CK techniques and sub-techniques</b></sub>
 </td>
 </tr>
 </table>
@@ -69,57 +46,77 @@ I'm a senior security engineer with 8+ years in the field, and I build the softw
 
 ---
 
-## ☀️ Spotlight: SolarHarvest
+## 🛡️ Spotlight: AlertSage
 
-<a href="https://github.com/texasbe2trill/SolarHarvest"><img src="https://raw.githubusercontent.com/texasbe2trill/SolarHarvest/main/docs/hero-1440x720.png" width="100%" alt="SolarHarvest pages on Garmin watches" /></a>
+**AI in the SOC, with a confidence gate.** Paste a free-text incident into this open-source Python console and get a triage card back: incident class, severity, ATT&CK techniques, a playbook hint, and a case record. Its classifier is trained on 500,000 synthetic incidents, and it shows where an LLM helps triage and where it should stay out of the way. An analyst still moves every case from New to Closed.
 
-**A data field for solar Garmin watches that measures what the sun is actually doing for your battery.** Written in Monkey C, live on the Connect IQ Store, and built for watches that give a data field just 128 KB of memory.
+<p align="center"><a href="https://texasbe2trill.github.io/AlertSage/"><img src="https://raw.githubusercontent.com/texasbe2trill/AlertSage/main/docs/images/bookmarks.png" width="80%" alt="AlertSage Bookmarks page with demo cases and the New, Triaging, Contained, Closed case status stepper" /></a></p>
 
-- **Measured, not marketed:** battery drain and gain come from the watch's own 1% steps, and the solar benefit is fitted across activities with a fixed-effects regression.
-- **Built for tight hardware:** fits that memory limit with room to spare, computes the sun's position on the watch, and makes no network calls.
-- **Shows up in Garmin Connect:** 14 developer FIT fields, checked against real recorded activities.
+- **Classifier first.** TF-IDF (5,000 features) plus 384-dimension sentence embeddings feed a logistic regression across 10 incident classes, from phishing and malware to insider threat and data exfiltration.
+- **LLM when unsure, by default.** In Fallback mode, the default, the LLM runs only when classifier confidence is low. Off never calls it, and Override sends every event to the LLM. In the demo, a 45%-confidence call took about 1.4 s in the classifier and about 5.8 s in the LLM, and came back as Phishing (ATT&CK T1566 and T1598).
+- **Only known labels.** The LLM can override the classifier only with schema-validated JSON and a known label, with synonyms normalized first. If it hedges, a forced second pass runs.
+- **Your model, your keys.** Anthropic, OpenAI, Hugging Face, or local llama.cpp, swappable per session, with a fallback when a key is missing.
+- **Built for the analyst.** Regex IOC extraction for 10 indicator types, VirusTotal enrichment with your own key, and one-click pivots to AbuseIPDB, Shodan, and GreyNoise.
+- **Hunt and track.** A hunt page with Lucene-style queries such as `mitre:T1566 AND last:24h`, case timelines with notes and tags, and CSV batch triage up to 500 rows.
 
 <p align="center">
-  <b>22 watch models · 7 pages · 104 unit tests · 3 screen sizes</b><br><br>
-  <a href="https://apps.garmin.com/en-US/apps/b0d0fd86-bc11-4d9a-9f78-40db5c7b7fa0"><img src="https://img.shields.io/badge/Get_it_on-Connect_IQ_Store-1f6feb?style=for-the-badge" alt="Get it on the Connect IQ Store" /></a>
-  <a href="https://github.com/texasbe2trill/SolarHarvest"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code" /></a>
+  <b>Kill-chain view across 13 of 14 ATT&amp;CK Enterprise tactics · 78 tests, CI green</b><br><br>
+  <a href="https://texasbe2trill.github.io/AlertSage/"><img src="https://img.shields.io/badge/Docs-1f6feb?style=for-the-badge&logo=materialformkdocs&logoColor=white" alt="Docs" /></a>
+  <a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live app" /></a>
+  <a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View code" /></a><br>
+  <sub>The live app sleeps when idle: click wake and give it a moment. The docs site is always up.</sub>
 </p>
 
 ---
 
-## 🚀 More Things I've Built
+## 🚨 Incident Command
+
+I have served as senior incident commander for high-impact security incidents and run every stage of the response:
+
+<p align="center"><b>Triage</b> → <b>Containment</b> → <b>Eradication</b> → <b>Recovery</b> → <b>Root cause</b></p>
+
+- **Malware, ransomware, and data protection incidents:** recognized as incident commander for all three, and led ransomware eradication and recovery.
+- **Briefings people can act on:** delivered risk assessments and remediation guidance to engineers and leadership.
+- **Identity-aware investigations:** correlated endpoint, network, identity, and behavioral sources to rebuild multi-stage activity.
+- **Threat hunting:** led enterprise threat hunting and network forensic analysis, and built the Splunk dashboards and Python automation behind it.
+- **For the next responder:** wrote the investigation playbooks and response baselines they start from.
+- **AI in my own casework:** used LLMs in production to summarize unstructured case data, triage events, draft investigation notes, and pull IOCs, timestamps, and actor patterns out of free text.
+
+---
+
+## 🧰 More Security Tools
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
-<a href="https://alertsage.streamlit.app"><img src="https://raw.githubusercontent.com/texasbe2trill/AlertSage/main/docs/images/mitre-ui-dashboard.png" width="100%" alt="AlertSage dashboard" /></a>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/texasbe2trill/ScenarioKit"><img src="https://raw.githubusercontent.com/texasbe2trill/ScenarioKit/main/scenarioKit_storyboard_example.png" width="100%" alt="ScenarioKit storyboard listing matched Sigma rules and ATT&amp;CK techniques" /></a>
 </td>
-<td width="50%" align="center" valign="middle">
-<a href="https://github.com/texasbe2trill/macos-trust"><img src="https://raw.githubusercontent.com/texasbe2trill/macos-trust/main/docs/demo.gif" width="100%" alt="macos-trust scan in a terminal" /></a>
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/texasbe2trill/macos-trust"><img src="https://raw.githubusercontent.com/texasbe2trill/macos-trust/main/docs/screenshot.png" width="100%" alt="macos-trust scan in baseline mode flagging an invalid code signature" /></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [AlertSage](https://github.com/texasbe2trill/AlertSage)
-<sub>**Python · scikit-learn · sentence-transformers · Streamlit · LLMs**</sub>
+### 🔎 [ScenarioKit](https://github.com/texasbe2trill/ScenarioKit)
+<sub>**Swift CLI · Sigma · Homebrew tap**</sub>
 
-Free-text security incident in, MITRE ATT&CK triage card out. A fast classifier makes the first pass, then an LLM writes the rationale, with guardrails that fall back to deterministic output when the model drifts from the source text.
+Turns macOS Unified Log JSON into one offline HTML storyboard: a timeline with ATT&CK techniques attached. Its detections live as code: 20 Sigma rules for persistence, TCC, sudo, SSH, keychain access, process injection, and more, run by its own Sigma matcher.
 
-***8-class taxonomy · 13 ATT&CK tactics · batch up to 500 rows***
+***20 Sigma rules · 34 ATT&CK techniques and sub-techniques · no network calls***
 
-<a href="https://alertsage.streamlit.app"><img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live app" /></a>
-<a href="https://github.com/texasbe2trill/AlertSage"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/texasbe2trill/ScenarioKit/blob/main/Sources/ScenarioKit/Resources/Sigma/macos/sigma-macos-rules.yml"><img src="https://img.shields.io/badge/Read_the_rules-6e40c9?style=flat-square&logo=github&logoColor=white" alt="Read the Sigma rules" /></a>
+<a href="https://github.com/texasbe2trill/ScenarioKit"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🍎 [macos-trust](https://github.com/texasbe2trill/macos-trust)
-<sub>**Python · Typer CLI · SARIF 2.1.0 · Homebrew tap**</sub>
+<sub>**Python CLI · SARIF 2.1.0 · Homebrew tap**</sub>
 
-A read-only macOS security scanner for unsigned apps, Gatekeeper violations, and suspicious persistence, with vendor-aware risk scoring, entitlements auditing, and SARIF output for GitHub Advanced Security.
+A read-only posture and persistence audit for Macs: unsigned apps, Gatekeeper violations, LaunchAgents and LaunchDaemons, plus kernel and browser extensions. It audits entitlements for 24 sensitive permissions, and baseline mode shows only what changed since your saved baseline. SARIF output drops findings straight into GitHub code scanning.
 
-***59 passing tests · baseline/diff mode · no network calls***
+***59 tests · CodeQL and pip-audit on every push · no network calls or telemetry***
 
 <a href="https://texasbe2trill.github.io/macos-trust/example-report.html"><img src="https://img.shields.io/badge/Live_Report-0a66c2?style=flat-square&logo=github&logoColor=white" alt="Live report" /></a>
 <a href="https://github.com/texasbe2trill/macos-trust"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
@@ -127,42 +124,25 @@ A read-only macOS security scanner for unsigned apps, Gatekeeper violations, and
 </td>
 </tr>
 <tr>
-<td width="50%" align="center" valign="middle">
-<a href="https://hooplytics.streamlit.app"><img src="https://raw.githubusercontent.com/texasbe2trill/hooplytics/main/docs/assets/player-radar.png" width="100%" alt="Hooplytics player radar chart" /></a>
-</td>
-<td width="50%" align="center" valign="middle">
-<a href="https://konotes.streamlit.app"><img src="https://raw.githubusercontent.com/texasbe2trill/KoNotes/main/docs/screenshots/overview.png" width="100%" alt="KoNotes overview dashboard" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏀 [Hooplytics](https://github.com/texasbe2trill/hooplytics)
-<sub>**Python · scikit-learn · pandas · Streamlit**</sub>
-
-NBA player outcome models built on 60+ leakage-safe features covering rolling form, matchup context, and rest, evaluated on a chronological split with an automated promotion gate.
-
-***PRA R² 0.615 · 172K train / 43K test rows***
-
-<a href="https://hooplytics.streamlit.app"><img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live app" /></a>
-<a href="https://github.com/texasbe2trill/hooplytics"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
-
+<td width="50%" align="center" valign="top">
+<a href="https://github.com/texasbe2trill/policyforge"><img src="https://raw.githubusercontent.com/texasbe2trill/policyforge/main/demo-approvals.gif" width="100%" alt="policyforge sending a require_approval decision to the approval queue, a human approving it, then a drift check" /></a>
 </td>
 <td width="50%" valign="top">
 
-### 📚 [KoNotes](https://github.com/texasbe2trill/KoNotes)
-<sub>**Python · Streamlit · LLMs · NLP**</sub>
+### 🚦 [policyforge](https://github.com/texasbe2trill/policyforge)
+<sub>**Go · policy as code · CLI and REST API**</sub>
 
-A local-first reading tool that turns Kobo and Kindle highlights into searchable notes, with theme clustering, similarity search, LLM chat, and recommendations.
+Guardrails for AI agents and automation that act on production. A YAML policy answers allow, deny, or require_approval after 9 ordered checks. Bots, CI jobs, and AI agents get time-limited policy envelopes, so an expired session is denied. A require_approval decision goes to an approval queue, where a human can approve or reject it. Every decision lands in a SHA-256 hash-linked audit log, and drift detection re-checks past decisions against today's policy.
 
-***571 tests · 20+ modules · 7-subcommand CLI***
+***61 tests · 3 safety tiers · 4 policy packs · approval workflow***
 
-<a href="https://konotes.streamlit.app"><img src="https://img.shields.io/badge/▶_Live_App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live app" /></a>
-<a href="https://github.com/texasbe2trill/KoNotes"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+<a href="https://github.com/texasbe2trill/policyforge"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
 
 </td>
 </tr>
 </table>
+
+<p align="center"><sub><b>205 tests across the four security tools, CI green on all four.</b></sub></p>
 
 ---
 
@@ -170,19 +150,52 @@ A local-first reading tool that turns Kobo and Kindle highlights into searchable
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,sklearn,linux,kubernetes,git,github,githubactions,vscode" alt="Python, Bash, scikit-learn, Linux, Kubernetes, Git, GitHub, GitHub Actions, VS Code" />
+<img src="https://skillicons.dev/icons?i=python,go,swift,bash,linux,kubernetes,git,githubactions" alt="Python, Go, Swift, Bash, Linux, Kubernetes, Git, GitHub Actions" />
 
 </div>
 
-| | |
+| Function | At work, and in public code you can read |
 |---|---|
-| **Security** | detection-as-code (Panther), forensic automation, KQL, Snowflake SQL, CVE triage, macOS trust assessment |
-| **Software** | Python, Monkey C (Garmin Connect IQ), Typer CLIs, unit testing, memory- and CPU-constrained devices |
-| **Applied&nbsp;AI** | LLM IOC extraction, incident classification, hallucination guardrails, multi-provider routing |
-| **Data&nbsp;&amp;&nbsp;ML** | scikit-learn, pandas, SQL, classification, regression, calibration, time-aware validation |
-| **Delivery** | Streamlit dashboards, SARIF 2.1.0, JSON pipelines, REST APIs, Garmin FIT developer fields |
+| **Detection as code** | Python detections in Panther, version controlled and peer reviewed, over high-scale fintech telemetry · **public:** 20 Sigma rules in [ScenarioKit](https://github.com/texasbe2trill/ScenarioKit) |
+| **SIEM and query** | Microsoft Sentinel, Splunk, Panther, KQL, SPL, and SQL. Made Snowflake monitoring queries about 20% faster for the on-call rotation. |
+| **Endpoint** | Microsoft Defender telemetry · **public:** macOS persistence and code-signing audit in [macos-trust](https://github.com/texasbe2trill/macos-trust) |
+| **Cloud and containers** | Daily CVE triage for Kubernetes containers and images; better SQL joins and filters saved about 2 hours per investigation · **public:** guardrails for bots and AI agents acting on infrastructure in [policyforge](https://github.com/texasbe2trill/policyforge) |
+| **Hunting and forensics** | Enterprise threat hunting · network forensics · Splunk dashboards · Python artifact collection, log parsing, and enrichment · **public:** Lucene-style search over triaged cases in [AlertSage](https://github.com/texasbe2trill/AlertSage) |
+| **AI in the SOC** | LLMs in production for case summaries, IOC extraction, and event triage · **public:** confidence-gated LLM escalation in [AlertSage](https://github.com/texasbe2trill/AlertSage) |
+| **Reporting** | Findings turned into clear next steps for engineering and security leaders · **public:** SARIF 2.1.0 for GitHub code scanning, plus JSON and HTML reports, in [macos-trust](https://github.com/texasbe2trill/macos-trust) |
+| **Languages** | Python · Go · Swift · KQL · SPL · SQL · Monkey C |
 
-<sub>**Currently exploring:** on-device statistics for wearables, context-aware security scanning, and LLM grounding for structured extraction.</sub>
+<sub>**Work versus public code:** the Panther, Sentinel, Defender, Splunk, Snowflake, and Kubernetes work above comes from my day jobs and isn't public. The repos on this page are the part you can inspect today. Also: two years managing an enterprise information security governance and risk program.</sub>
+
+---
+
+## 🧭 Beyond Security
+
+Side projects built with the same habits: measure it, test it, ship it.
+
+<table>
+<tr>
+<td width="42%" align="center" valign="top">
+<a href="https://github.com/texasbe2trill/SolarHarvest"><img src="https://raw.githubusercontent.com/texasbe2trill/SolarHarvest/main/docs/hero-1440x720.png" width="100%" alt="SolarHarvest pages on Garmin watches" /></a>
+</td>
+<td width="58%" valign="top">
+
+### ☀️ [SolarHarvest](https://github.com/texasbe2trill/SolarHarvest)
+<sub>**Monkey C · Garmin Connect IQ · live on the Connect IQ Store**</sub>
+
+Connected-device engineering on tight hardware. One codebase runs on 17 Garmin device targets (22 solar watch models), 3 Connect IQ API generations, and 3 screen sizes. It fits the 128 KB data-field limit on the tightest devices. It measures battery drain and solar gain from the watch's own 1% battery steps and records 19 developer FIT fields to every activity.
+
+***112 unit tests across device tiers · 7 pages · no network calls***
+
+<a href="https://apps.garmin.com/en-US/apps/b0d0fd86-bc11-4d9a-9f78-40db5c7b7fa0"><img src="https://img.shields.io/badge/Connect_IQ_Store-1f6feb?style=flat-square" alt="Get it on the Connect IQ Store" /></a>
+<a href="https://github.com/texasbe2trill/SolarHarvest"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white" alt="Code" /></a>
+
+</td>
+</tr>
+</table>
+
+- 📚 **[KoNotes](https://github.com/texasbe2trill/KoNotes):** local-first reading analytics with local embeddings, clustering, and LLM chat, plus a 7-subcommand CLI. 645 tests.
+- 🏀 **[Hooplytics](https://github.com/texasbe2trill/hooplytics):** NBA player models tested on later games they never saw (R² 0.615 for combined points, rebounds, and assists). A model is saved only if it passes an R² check. 30 tests.
 
 ---
 
@@ -190,12 +203,10 @@ A local-first reading tool that turns Kobo and Kindle highlights into searchable
 
 ## 📫 Let's Talk
 
-Always happy to talk security engineering, tooling, or the projects above.
+Happy to compare notes on detection engineering, incident response, or putting LLMs to work in triage.
 
 <a href="mailto:chris@texasbe2trill.com"><img src="https://img.shields.io/badge/Email_Me-0a66c2?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email me" /></a>
-<a href="https://bsky.app/profile/texasbe2trill.bsky.social"><img src="https://img.shields.io/badge/Follow_on_BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Follow on BlueSky" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=texasbe2trill&style=flat-square&color=0a66c2&label=profile+views" alt="Profile views" />
+<a href="https://bsky.app/profile/texasbe2trill.com"><img src="https://img.shields.io/badge/Bluesky-@texasbe2trill.com-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
 
 </div>
 
